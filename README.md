@@ -1,2 +1,2 @@
 # homepage
-Homepage of this workspace, www.tellview.de
+Homepage of this workspace, www.zellview.de
